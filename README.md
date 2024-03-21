@@ -12,13 +12,6 @@
 
 视频配置教程：[MediaCrawler视频入门教程](https://space.bilibili.com/434377496/channel/series)
 
-## 感谢下列Sponsors对本仓库赞助
-<a href="https://dashboard.ipcola.com/register?referral_code=vkybwyucyuidpne">全球ip代理超新星</a>
-<a href="https://dashboard.ipcola.com/register?referral_code=vkybwyucyuidpne" target="_blank"><img src="https://s2.loli.net/2024/03/18/LKJaWcIHQl92ip5.jpg" alt="IPCola,  全球ip代理超新星-官网图"></a>
-
-
-成为赞助者，展示你的产品在这里，联系作者：relakkes@gmail.com
-
 ## 功能列表
 | 平台  | Cookie 登录 | 二维码登录 | 指定创作者主页 | 关键词搜索 | 指定视频/帖子 ID 爬取 | 登录状态缓存 | 数据保存 | IP 代理池 | 滑块验证码 |
 |:---:|:---------:|:-----:|:-------:|:-----:|:-------------:|:------:|:----:|:------:|:-----:|
